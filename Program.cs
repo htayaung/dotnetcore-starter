@@ -7,6 +7,8 @@ namespace dotnetcore_starter
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
+            Console.ReadLine();
         }
     }
 }
