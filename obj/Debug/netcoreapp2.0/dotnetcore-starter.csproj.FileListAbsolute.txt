@@ -1,0 +1,11 @@
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\bin\Debug\netcoreapp2.0\dotnetcore-starter.deps.json
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\bin\Debug\netcoreapp2.0\dotnetcore-starter.runtimeconfig.json
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\bin\Debug\netcoreapp2.0\dotnetcore-starter.runtimeconfig.dev.json
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\bin\Debug\netcoreapp2.0\dotnetcore-starter.dll
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\bin\Debug\netcoreapp2.0\dotnetcore-starter.pdb
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\obj\Debug\netcoreapp2.0\dotnetcore-starter.csprojAssemblyReference.cache
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\obj\Debug\netcoreapp2.0\dotnetcore-starter.csproj.CoreCompileInputs.cache
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\obj\Debug\netcoreapp2.0\dotnetcore-starter.AssemblyInfoInputs.cache
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\obj\Debug\netcoreapp2.0\dotnetcore-starter.AssemblyInfo.cs
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\obj\Debug\netcoreapp2.0\dotnetcore-starter.dll
+D:\Workspace\VSCode\WritingProfessionalCode\dotnetcore-starter\obj\Debug\netcoreapp2.0\dotnetcore-starter.pdb
