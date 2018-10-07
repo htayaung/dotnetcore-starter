@@ -10,5 +10,9 @@ namespace dotnetcore_starter
             
             Console.ReadLine();
         }
+
+        private static string Welcome(){
+            return "Welcome!";
+        }
     }
 }
